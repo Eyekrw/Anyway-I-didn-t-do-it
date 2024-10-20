@@ -143,6 +143,7 @@
 ### Client
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/photon-004480?style=for-the-badge&logo=photon&logoColor=white">
 
 ### Server
 
