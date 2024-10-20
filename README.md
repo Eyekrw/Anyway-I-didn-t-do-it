@@ -3,10 +3,12 @@
 ## 캐쥬얼 서바이벌 게임 Anyway I didn't do it
 
 ### ▶️ UCC
+(이미지를 누르면 영상 링크로 이동합니다.)
 
 [![UCC 영상](http://img.youtube.com/vi/HOwiTeRc6-E/0.jpg)](https://www.youtube.com/watch?v=HOwiTeRc6-E)
 
 ### 🎮 시연 영상
+(이미지를 누르면 영상 링크로 이동합니다.)
 
 [![시연 영상](http://img.youtube.com/vi/mzCqQ7Afbu0/0.jpg)](https://www.youtube.com/watch?v=mzCqQ7Afbu0)
 
