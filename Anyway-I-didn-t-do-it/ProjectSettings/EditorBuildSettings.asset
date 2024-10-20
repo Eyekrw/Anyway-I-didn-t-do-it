@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/bbbb/MainScene_bbbb.unity
+    guid: 63c69526cac16924fafa1f898efc0473
+  - enabled: 1
+    path: Assets/01.Scenes/bbbb/LobbyScene_bbbb.unity
+    guid: 6b79ada09b6e4114eb55acc52d5e18c7
+  - enabled: 1
+    path: Assets/01.Scenes/bbbb/CustomRoom.unity
+    guid: fdf68b3bfaceefe4fa38d7da827035d1
+  - enabled: 1
+    path: Assets/01.Scenes/SignupScene.unity
+    guid: b2b635f40da16e443a86317bfb5d7b0c
+  - enabled: 1
+    path: Assets/01.Scenes/DesertMap.unity
+    guid: f3151b4810149f0428af6035f68294e1
+  - enabled: 1
+    path: Assets/01.Scenes/IceMap.unity
+    guid: 4b5493994b713f946a0a6ca2c39aec0d
+  - enabled: 1
+    path: Assets/01.Scenes/FireMap.unity
+    guid: 52594538d266c014faa2f414083b08c0
+  - enabled: 1
+    path: Assets/01.Scenes/RiverMap.unity
+    guid: b99dbfd6a8bb3134099fa84dfe9578b3
+  - enabled: 1
+    path: Assets/01.Scenes/MirrorMap.unity
+    guid: c4389b0f49daf8347a62bc2602bd54cb
+  - enabled: 1
+    path: Assets/01.Scenes/WindMap.unity
+    guid: 574d23755c8018e43a41eca326e4ddc0
+  - enabled: 1
+    path: Assets/01.Scenes/SwordMap.unity
+    guid: 8a6463f597807d24788729d0da6e48a8
+  - enabled: 1
+    path: Assets/01.Scenes/GameResult.unity
+    guid: 29edda2416d642941a607d8c7d75068e
+  m_configObjects: {}
