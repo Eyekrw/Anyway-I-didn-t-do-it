@@ -162,6 +162,7 @@
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
+<img src="https://img.shields.io/badge/UVCS-ff4300?style=for-the-badge&logo=UVCS&logoColor=white">
 
 ## 팀원 소개
 
