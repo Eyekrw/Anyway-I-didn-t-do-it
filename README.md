@@ -2,6 +2,9 @@
 
 ## 캐쥬얼 서바이벌 게임 Anyway I didn't do it
 
+### ▶️ 게임 다운로드
+[다운로드](https://drive.google.com/file/d/1b3TXgJGHpKOPWpgxMa-0w5cXBSAams4p/view?usp=drive_link)
+
 ### ▶️ UCC
 
 (이미지를 누르면 영상 링크로 이동합니다.)
